@@ -9,6 +9,7 @@ verify_ssl = true
 speechrecognition = "*"
 flask = "*"
 gunicorn = "*"
+pyaudio = "*"
 
 [requires]
 python_version = "3.7"
