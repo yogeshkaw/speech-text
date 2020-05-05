@@ -6,10 +6,9 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-pyaudio = "*"
+speechrecognition = "*"
 flask = "*"
 gunicorn = "*"
-speechrecognition = "*"
 
 [requires]
 python_version = "3.7"
